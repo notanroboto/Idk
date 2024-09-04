@@ -1,2 +1,2 @@
-# Idk
-don't know what is gonna be here
+# Flappy Bird
+eu não tinha criatividade e fiz a coisa mais básica de todas
